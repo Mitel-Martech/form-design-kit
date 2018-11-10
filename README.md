@@ -11,10 +11,10 @@ This tutorial assumes you already have access to Museo Sans and have [Sketch](ht
 * Open the Design Kit file in Sketch
 * Styles, elements, components and templates are broken out into their respective pages
 * Use symbols and styles to build out your design.  Make use of existing components whenever possible.
-* Updates to the Design Kit will be posted in our change log, so check back frequently to stay up-to-date (Martech team members will be notified of changes directly).
+* Updates to the Design Kit will be posted in our change log, so check back frequently to stay up-to-date(Martech team members will be notified of changes directly).
 
 ### Recommended:
 * Review [Symbols](https://sketchapp.com/docs/symbols/) within Sketch and familiarize yourself with usage & techniques.
 * Install the [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) plugin, this will allow you to import `mitel-colors.sketchpalette` into new and existing documents, giving you access to the martech color palette.
-* Install the http://www.textstyl.es/)[Shared Text Styles] plugin, this will allow you to import `mitel-text-styles.json` into new and existing documents, giving you access to martech text styles.
-* Importing can be done through the Sketch `plugin` menu once associated plugins are installed.
+* Install the [Shared Text Styles](http://www.textstyl.es/) plugin, this will allow you to import `mitel-text-styles.json` into new and existing documents, giving you access to martech text styles.
+* Importing can be done through the Sketch Plugins menu once associated plugins are installed.
