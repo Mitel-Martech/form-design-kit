@@ -10,7 +10,7 @@ This tutorial assumes you already have access to Museo Sans and have [Sketch](ht
 ### Basic Usage:
 * Open the Design Kit file in Sketch
 * Styles, elements, components and templates are broken out into their respective pages
-* Use symbols and styles to build out your design.  Make use of existing components whenever possible.
+* Use symbols and styles to build out your design.  Make use of existing components whenever possible, we should only be creating net new assets when absolutely necessary.
 * Updates to the Design Kit will be posted in our change log, so check back frequently to stay up-to-date(Martech team members will be notified of changes directly).
 
 ### Recommended:
