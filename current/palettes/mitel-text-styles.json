@@ -218,7 +218,7 @@
       },
       {
          "name":"02 Standard Headings / H5 / Standard / 18",
-         "font":"MuseoSans-900",
+         "font":"MuseoSans-700",
          "size":18,
          "color":{
             "red":0,
@@ -254,7 +254,7 @@
       },
       {
          "name":"02 Standard Headings / H6 / Standard / 16",
-         "font":"MuseoSans-900",
+         "font":"MuseoSans-700",
          "size":16,
          "color":{
             "red":0,
@@ -290,7 +290,7 @@
       },
       {
          "name":"02 Standard Headings / H7 / Standard / 14",
-         "font":"MuseoSans-900",
+         "font":"MuseoSans-700",
          "size":14,
          "color":{
             "red":0,
@@ -326,7 +326,7 @@
       },
       {
          "name":"03 Standard Text / paragraph, list items / 16",
-         "font":"MuseoSans-500",
+         "font":"MuseoSans-300",
          "size":16,
          "color":{
             "red":0.2666666666666667,
@@ -344,7 +344,7 @@
       },
       {
          "name":"03 Standard Text / large, lrg / 18",
-         "font":"MuseoSans-500",
+         "font":"MuseoSans-300",
          "size":18,
          "color":{
             "red":0.2666666666666667,
@@ -362,7 +362,7 @@
       },
       {
          "name":"03 Standard Text / x-large, x-lrg / 20",
-         "font":"MuseoSans-500",
+         "font":"MuseoSans-300",
          "size":20,
          "color":{
             "red":0.2666666666666667,
@@ -380,7 +380,7 @@
       },
       {
          "name":"03 Standard Text / caption / 12",
-         "font":"MuseoSans-500",
+         "font":"MuseoSans-300",
          "size":12,
          "color":{
             "red":0.2666666666666667,
@@ -398,7 +398,7 @@
       },
       {
          "name":"03 Standard Text / legal / 11",
-         "font":"MuseoSans-500",
+         "font":"MuseoSans-300",
          "size":11,
          "color":{
             "red":0.2666666666666667,
