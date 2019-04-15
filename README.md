@@ -1,10 +1,8 @@
 # FORM Design Kit – Beta 0.0.3 (Feb 2019)
-
 The FORM Design Kit is a universal design resource for Mitel's Marketing Technology team.  It contains all of our visual design assets related to mitel.com(color, typography, iconography, grids, elements, components and more).  This document evolves as changes as we add new components, adjust styling and collaborate with teams across the company.
 
 
 ## :bulb: Getting Started
-
 This tutorial assumes you already have access to Museo Sans and have [Sketch](https://www.sketchapp.com/) installed.  If you are missing either of these, speak to a member of the Marketing Technology team to discuss getting these setup.
 
 ### Basic Usage:
@@ -18,6 +16,10 @@ This tutorial assumes you already have access to Museo Sans and have [Sketch](ht
 * Install the [Sketch Palettes](https://github.com/andrewfiorillo/sketch-palettes) plugin, this will allow you to import `mitel-colors.sketchpalette` into new and existing documents, giving you access to the martech color palette.
 * Install the [Shared Text Styles](http://www.textstyl.es/) plugin, this will allow you to import `mitel-text-styles.json` into new and existing documents, giving you access to martech text styles.
 * Importing can be done through the Sketch Plugins menu once associated plugins are installed.
+
+## :blue_book: Other Resources
+* [Image Sizing](https://github.com/Mitel-Martech/form-design-kit/wiki/Images-&-Appropriate-Sizing)
+
 
 ## :memo: Updates:
 Release documentation can be found [here](https://github.com/Mitel-Martech/form-design-kit/wiki/Releases)
