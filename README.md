@@ -1,4 +1,4 @@
-# FORM Design Kit – Beta 0.0.3 (Feb 2019)
+# FORM Design Kit – Beta 0.0.4 (May 2019)
 
 The FORM Design Kit is a universal design resource for Mitel's Marketing Technology team.  It contains all of our visual design assets related to mitel.com(color, typography, iconography, grids, elements, components and more).  This document evolves as changes as we add new components, adjust styling and collaborate with teams across the company.
 
