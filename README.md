@@ -6,6 +6,9 @@ The FORM Design Kit is a universal design resource for Mitel's Marketing Technol
 ## :bulb: Getting Started
 This tutorial assumes you already have access to Museo Sans and have [Sketch](https://www.sketchapp.com/) installed.  If you are missing either of these, speak to a member of the Marketing Technology team to discuss getting these setup.
 
+### DO THIS FIRST
+In order to properly pull assets from this repo you need to have [Git LFS](https://git-lfs.github.com/) setup and installed.  *Users with versions 0.0.3 or earlier will need to install this and clone this repo again.*
+
 ### Basic Usage:
 * Open the Design Kit file in Sketch
 * Styles, elements, components and templates are broken out into their respective pages
